@@ -6,8 +6,9 @@
 	border-top: 50px solid transparent;
 	border-bottom: 50px solid transparent;
     transition: 0.5s;
-    left: 80px;
-    top: 200px;
+    left: 307px;
+    top: 188px;
+    transform: rotate(45deg);
     
 
 }
@@ -19,8 +20,9 @@
     border-top: 50px solid transparent;
     border-bottom: 50px solid transparent;
     transition: 1s;
-    top: 330px;
-    left: 50px;
+    top: 410px;
+    left: 200px;
+    transform: rotate(135deg);
 }
 .triangle3{
     width: 0;
@@ -30,8 +32,8 @@
     border-top: 70px solid transparent;
     border-bottom: 70px solid transparent;
     transition: 1.5s; 
-    top: 250px;
-    left: 250px;
+    top: 9px;
+    left: 246px;
 }
 
 .triangle4{
@@ -42,8 +44,10 @@
     border-top: 100px solid transparent;
     border-bottom: 100px solid transparent;
     transition: 2s;
-    top: 20px;
-  right: 100px;
+    top: 120px;
+  right: 194px;
+  left: 194px;
+
    
 
 }
@@ -55,8 +59,9 @@
     border-top: 100px solid transparent;
     border-bottom: 100px solid transparent;
     transition: 2.5s;
-    left: 250px;
-    top: 100px;
+    left: 107.5px;
+    top: 250px;
+    transform: rotate(180deg);
 }
 .carre{
     position: absolute;
@@ -64,8 +69,8 @@
     width: 70px;
     height: 70px;;
     transition: 3s;
-    top: 10px;
-    left: 200px;
+    top: 114px;
+    left: 213px;
 }
 .parallelogram{
     position: absolute;
@@ -79,7 +84,7 @@
     height: 60px;
     clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);
          transform: rotate(154deg);
-         top: 20px;
-         left: 80px;
+         top: 371.5px;
+         left: 11px;
          transition: 3.5s;
 }
